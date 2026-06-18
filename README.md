@@ -1,33 +1,29 @@
-# Tourism Management System
+# Tourism-Management-System
 
-## Overview
-The Tourism Management System is a web-based application developed using PHP, MySQL, HTML, CSS, and JavaScript. The project helps users explore tourist destinations, view travel information, book tours, and provide feedback through an easy-to-use interface.
+This is a Tourism Management System Project build by using html, css, javascript, php, MySQL as mini project in the 5th semister of engineering.
+This website has cool SignUp/SignIn page where you can enter your details and SignUp.
+It stores your data in the database using php and MySQL queries.
+This website has a cool front page where you can see many destinations, you can also get the data about each place.
+There is also a galery section where you can see the beautifull pictures of all the destinations.
+This website also has the admin login admin can get the information of the customers, travel agents, also can add new places, hotels.
+There is cool and nice booking page where you can book your tour by entering your details.
+This website also has a feedback section where you can give your feedback to the developer.
 
-## Features
+# New Changes
 
-### User Module
-- User Registration and Login
-- Browse Tourist Destinations
-- View Destination Details
-- Tour Booking System
-- Feedback Submission
+improved performance
+login signup isssues fixed
+styling issues fixed
 
-### Admin Module
-- Admin Login
-- Manage Destinations
-- Manage Hotels
-- Manage Customer Information
-- View Bookings and Feedback
+# Use Procedure
 
-## Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend: PHP
-- Database: MySQL
-- Server: XAMPP
+please chanage the port number with your port number - I used 3307 as port number but for your case it may be 3306 please change that
 
-## Installation
-1. Install XAMPP.
-2. Start Apache and MySQL.
-3. Copy project files to the `htdocs` folder.
-4. Import the database into phpMyAdmin.
-5. Open the browser and run:
+please change username and password if that applicable to you
+
+create database called "travel", don't give any other name,
+if you want different name for database then make sure that you change database ame in code also
+
+database file also provided
+
+Thank You....
